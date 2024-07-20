@@ -1,9 +1,9 @@
 const User = require('./../models/User')
 const bcrypt = require('bcrypt')
-const {generateToken} = require('./../middlewares/jwtValidaton')
+const {generateToken} = require('../middlewares/jwtGenerateToken')
 
 const createUser = async (req, res) => {
-    const { email, pw, edad, nombre, nacionalidad, documentoDeIdentidad } = req.body
+    const { email, pw, edad, nombre, nacionalidad, documentoDeIdentidad, tipoDeDocumento } = req.body
     try {
         const user = await User.findOne({email:email})
         if(user) return res.status(400).json({
@@ -17,6 +17,7 @@ const createUser = async (req, res) => {
             edad: edad,
             nombre: nombre,
             nacionalidad: nacionalidad, 
+            tipoDeDocumento: tipoDeDocumento,
             documentoDeIdentidad: documentoDeIdentidad
         })
         dbUser.pw = bcrypt.hashSync(pw, salt)
@@ -63,12 +64,25 @@ const loginUser = async(req, res)=>{
     }
 }
 
-//updateUser
 
 const updateUser = async(req, res)=>{
-    const{email, pw, edad, nombre, nacionalidad, documentoDeIdentidad} = req.body
+    const{email, pw, edad, nombre } = req.body
     try {
-        
+        const updatedData = {};
+        if(email) updatedData.email = email;
+        if(pw) updatedData.pw = pw;
+        if(edad) updatedData.edad = edad
+        if (nombre) updatedData.nombre=nombre
+        const user = await User.findOneAndUpdate({email:email}, updatedData)
+        if (!user) return res.status(400).json({
+            ok:false, 
+            msg: `Usuario con email ${email} no fue encontrado`
+        })
+        return res.status(200).json({
+            ok:true, 
+            msg: 'Usuario actualizado exitosamente',
+            user:user
+        })
     } catch (error) {
         console.log(error)
         return res.status(500).json({
@@ -78,10 +92,28 @@ const updateUser = async(req, res)=>{
     }
 }
 
-
+const deleteUser = async(req, res) =>{
+    const email = req.query
+    console.log(email)
+    try {
+        const user = await User.findOneAndDelete(email)
+        if (user) return res.status(200).json({
+            ok:true, 
+            msg: 'El usuario ha sido eliminado correctamente'
+        })
+    } catch (error) {
+        console.log(error)
+        return res.status(500).json({
+            ok:false,
+            msg: 'Por favor contacta a soporte'
+        })
+    }
+}
 
 module.exports = {
     createUser,
-    loginUser
+    loginUser,
+    updateUser, 
+    deleteUser
 }
 
