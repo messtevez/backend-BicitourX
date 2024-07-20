@@ -22,6 +22,10 @@ const userSchema = Schema({
         type: String,
         required: true,
     }, 
+    tipoDeDocumento: {
+        type: String,
+        required: true
+    },
     documentoDeIdentidad:{
         type: String,
         required: true
