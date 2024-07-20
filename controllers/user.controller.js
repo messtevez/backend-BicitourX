@@ -1,5 +1,6 @@
 const User = require('./../models/User')
 const bcrypt = require('bcrypt')
+const {generateToken} = require('./../middlewares/jwtValidaton')
 
 const createUser = async (req, res) => {
     const { email, pw, edad, nombre, nacionalidad, documentoDeIdentidad } = req.body
@@ -33,7 +34,54 @@ const createUser = async (req, res) => {
     }
 }
 
+const loginUser = async(req, res)=>{
+    const {email, pw}= req.body
+    try {
+        const dbUser = await User.findOne({email})
+        if(!dbUser) return res.status(400).json({
+            ok:false, 
+            msg: 'El correo y la contraseña no coinciden.'
+        })
+        const validatePw = bcrypt.compareSync(pw, dbUser.pw)
+        if (!validatePw) return res.status(400).json({
+            ok:false,
+            msg: 'El correo y la contraseña no coinciden.'
+        })
+        const token = await generateToken(dbUser._is, dbUser.email)
+
+        return res.status(200).json({
+            ok:true, 
+            msg: 'Sesion iniciada',
+            token:token
+        })
+    } catch (error) {
+        console.log(error)
+        return res.status(500).json({
+            ok:false,
+            msg: 'Por favor contacta a soporte'
+        })
+    }
+}
+
+//updateUser
+
+const updateUser = async(req, res)=>{
+    const{email, pw, edad, nombre, nacionalidad, documentoDeIdentidad} = req.body
+    try {
+        
+    } catch (error) {
+        console.log(error)
+        return res.status(500).json({
+            ok:false,
+            msg: 'Por favor contacta a soporte'
+        })
+    }
+}
+
+
+
 module.exports = {
-    createUser
+    createUser,
+    loginUser
 }
 
