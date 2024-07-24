@@ -14,7 +14,8 @@ const createEvent = async( req, res) => {
             capacity: capacity, 
             category: category
         })
-        await dbEvent.save(); 
+        await dbEvent.save()
+        
         return res.status(201).json({
             ok: true, 
             msg: 'Evento creado exitosamente'
@@ -29,4 +30,49 @@ const createEvent = async( req, res) => {
     }
 }
 
-module.exports = createEvent; 
+const getAllEvents = async( req, res) => {
+    try{
+        const events = await Event.find().select('name')
+        
+        return res.status(200).json({
+        ok: true,
+        events: events
+    }) 
+    } catch(error){
+        console.log(error)
+        return res.status(500).json({
+            ok: false,
+            msg: 'server error getting events, contact support'
+        })
+    }
+}
+
+const deleteEventById = async(req, res) => {
+    const {id} = req.params.id
+    try{
+        const event = await Event.findOneAndDelete({_id: id})
+        if(event){
+            return res.status(200).json({
+                ok: true,
+                msg: `Event ${event.name} has been deleted`
+            })
+        }
+        return res.status(400).json({
+            ok: false, 
+            msg: 'Event was not found for deletetion'
+        })
+
+    }catch(error){
+        console.log(error)
+        return res.status(500).json({
+            ok: false,
+            msg: 'server error when deleting event, contact support'
+        })
+    }
+}
+
+module.exports = {
+    createEvent,
+    deleteEventById,
+    getAllEvents
+} 

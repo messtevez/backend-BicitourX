@@ -6,7 +6,7 @@ const eventSchema = Schema({
         required: true
     },
     date: {
-        type: Date, 
+        type: String, 
         required: true, 
     },
     hour: {
@@ -36,4 +36,4 @@ const eventSchema = Schema({
 
 })
 
-model.exports = model('Events', eventSchema)
+module.exports = model('Events', eventSchema)
