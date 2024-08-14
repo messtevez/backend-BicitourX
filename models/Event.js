@@ -22,7 +22,7 @@ const eventSchema = Schema({
         required: true
     },
     distance: {
-        type: Number,
+        type: String,
         required: true
     },
     capacity: {

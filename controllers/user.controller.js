@@ -64,7 +64,6 @@ const loginUser = async(req, res)=>{
     }
 }
 
-
 const updateUser = async(req, res)=>{
     const{email, pw, edad, nombre } = req.body
     try {
@@ -110,10 +109,34 @@ const deleteUser = async(req, res) =>{
     }
 }
 
+const getUserByEmail = async(req, res) =>{
+    const email = req.query.email
+    try {
+        const user = await User.findOne({email:email})
+        if(user){
+            return res.status(200).json({
+                ok:true, 
+                email:email
+            })
+        }
+        return res.status(400).json({
+            ok:false, 
+            msg: 'No se encontró el usuario.'
+        })
+    } catch (error) {
+        console.log(error)
+        return res.status(500).json({
+            ok: false,
+            msg: 'Por favor contacta a soporte.'
+        })
+    }
+}
+
 module.exports = {
     createUser,
     loginUser,
     updateUser, 
-    deleteUser
+    deleteUser,
+    getUserByEmail
 }
 

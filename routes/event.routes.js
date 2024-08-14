@@ -5,8 +5,8 @@ const {users, events} = require('./../middlewares/validationBody')
 const validateFields = require('./../middlewares/validationResult')
 
 
-router.post('/reg-event', events, validateFields, createEvent)
-router.get('/get-all', getAllEvents)
-router.delete('/del-event/:id', deleteEventById)
+router.post('/create-event', events, validateFields, createEvent)
+router.get('/get-all-events', validateFields, getAllEvents)
+router.delete('/del-event/:id', validateFields, deleteEventById)
 
 module.exports = router

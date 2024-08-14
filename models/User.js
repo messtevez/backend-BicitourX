@@ -29,7 +29,8 @@ const userSchema = Schema({
     documentoDeIdentidad:{
         type: String,
         required: true
-    }
+    }, 
 })
 
 module.exports = model('Users', userSchema)
+
