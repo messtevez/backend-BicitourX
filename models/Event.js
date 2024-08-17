@@ -1,4 +1,4 @@
-const {Schema, model} = require('mongoose')
+const {Schema, model, mongoose} = require('mongoose')
 
 const eventSchema = Schema({
     name: {
@@ -32,7 +32,10 @@ const eventSchema = Schema({
     category: {
         type: String,
         required: true
-    }
+    },
+    attendees: [{ 
+        type: mongoose.Schema.Types.ObjectId, 
+        ref: 'Users' }]
 
 })
 
