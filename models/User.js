@@ -30,6 +30,10 @@ const userSchema = Schema({
         type: String,
         required: true
     }, 
+    numeroDeContacto:{
+        type: String, 
+        required:true
+    }
 })
 
 module.exports = model('Users', userSchema)

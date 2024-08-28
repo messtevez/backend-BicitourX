@@ -1,14 +1,22 @@
 const { body } = require('express-validator')
 
 const users = [
-    body('email', 'No dejes este campo vacío').normalizeEmail().notEmpty(),
+    body('email', 'No dejes este campo vacío').notEmpty(),
     body('email', 'El email es inválido').normalizeEmail().isEmail(),
     body('pw', 'No dejes este campo vacío').notEmpty(),
-    body('pw', 'Escribe una contraseña segura con al menos 8 caracteres, una letra mayúscula, minúscula, números y caracteres').isStrongPassword().isLength({ min:8}),
+    body('pw', 'Escribe una contraseña segura con al menos 8 caracteres, una letra mayúscula, minúscula, números y caracteres').isStrongPassword().isLength({min:8}),
     body('nombre', 'No dejes este campo vacío').notEmpty(),
     body('nacionalidad', 'No dejes este campo vacío').notEmpty(),
     body('documentoDeIdentidad', 'No dejes este campo vacío').notEmpty(),
     body('documentoDeIdentidad', 'Escribe solo numeros').isNumeric(),
+    body('numeroDeContacto', 'No dejes este campo vacío').isNumeric().notEmpty()
+]
+
+const login = [
+    body('email', 'No dejes este campo vacío').notEmpty(),
+    body('pw', 'No dejes este campo vacío').notEmpty(),
+    body('email', 'El email es inválido').normalizeEmail().isEmail(),
+    body('pw', 'Escribe una contraseña segura con al menos 8 caracteres, una letra mayúscula, minúscula, números y caracteres').isStrongPassword().isLength({ min:8})
 ]
 
 const events = [
@@ -25,5 +33,6 @@ const events = [
 
 module.exports = {
     users,
-    events
+    events,
+    login
 }
