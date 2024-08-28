@@ -35,7 +35,12 @@ const eventSchema = Schema({
     },
     attendees: [{ 
         type: mongoose.Schema.Types.ObjectId, 
-        ref: 'Users' }]
+        ref: 'Users' }],
+        
+    eventImg: {
+        type: String,
+        required: true
+    }
 
 })
 

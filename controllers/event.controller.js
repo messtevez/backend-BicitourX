@@ -2,8 +2,16 @@ const Event = require('./../models/Event')
 
 const createEvent = async( req, res) => {
     const {name, date, hour, location, cost, distance, capacity, category} = req.body
-
+    const img = req.file
+    console.log(req.name)
+    console.log("Entro")
     try{
+
+        if(!file)return res.status(400).json({
+            ok:false,
+            msg:'hey event Image is mandatory'
+        })
+
         const dbEvent = new Event({
             name: name,
             date: date, 
@@ -13,7 +21,8 @@ const createEvent = async( req, res) => {
             distance: distance,
             capacity: capacity, 
             category: category,
-            attendees: []
+            attendees: [],
+            eventImg: img
         })
         await dbEvent.save()
         
