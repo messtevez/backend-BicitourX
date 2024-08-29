@@ -2,8 +2,16 @@ const Event = require('./../models/Event')
 
 const createEvent = async( req, res) => {
     const {name, date, hour, location, cost, distance, capacity, category} = req.body
-
+    const img = req.file
+    console.log(req.name)
+    console.log("Entro")
     try{
+
+        if(!file)return res.status(400).json({
+            ok:false,
+            msg:'hey event Image is mandatory'
+        })
+
         const dbEvent = new Event({
             name: name,
             date: date, 
@@ -12,7 +20,9 @@ const createEvent = async( req, res) => {
             cost: cost, 
             distance: distance,
             capacity: capacity, 
-            category: category
+            category: category,
+            attendees: [],
+            eventImg: img
         })
         await dbEvent.save()
         
@@ -142,10 +152,57 @@ const deleteEventById = async(req, res) => {
     }
 }
 
+const capacityValidator = async(req, res) => {
+    const idEvent = req.params.id
+    const idUser = req.body.id
+    try{
+        const valEvent = await Event.findOne({_id: idEvent})
+
+        if(!valEvent){
+            return res.status(400).json({
+                ok: false,
+                msg: "event not found"
+            })
+        }
+        
+        const exists = valEvent.attendees.find(x => x == idUser)
+
+        if(exists){
+            return res.status(400).json({
+                ok: false, 
+                msg: "User is already in event!"
+            })
+        }
+        
+        if(idEvent.capacity >= valEvent.attendees.length){
+            return res.status(400).json({
+                ok: false,
+                msg: "Event at capacity, cannot add more"
+            })
+        }
+
+        valEvent.attendees.push(idUser)
+        await valEvent.save()
+
+        return res.status(200).json({
+            ok: true, 
+            msg: "User Added!!"
+        })
+
+    } catch(error){
+        console.log(error)
+        return res.status(500).json({
+            ok: false,
+            msg: 'server error. Contact Support'
+        })
+    }
+}
+
 module.exports = {
     createEvent,
     deleteEventById,
     getAllEvents,
     getEventById,
-    updateEventById
+    updateEventById,
+    capacityValidator
 } 
