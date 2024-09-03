@@ -1,4 +1,4 @@
-const { body } = require('express-validator')
+import { body } from 'express-validator'
 
 const users = [
     body('email', 'No dejes este campo vacío').notEmpty(),
@@ -31,7 +31,7 @@ const events = [
     
 ]
 
-module.exports = {
+export {
     users,
     events,
     login
