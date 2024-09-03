@@ -146,7 +146,59 @@ const deleteEventById = async (req: Request, res: Response): Promise<Response> =
     }
 };
 
-const addAttendeeToEvent = async (req: Request, res: Response): Promise<Response> => {
+const requestToJoinEvent = async (req: Request, res: Response): Promise<Response> => {
+    const idEvent = req.params.id;
+    const idUser = req.body.id;
+
+    try {
+        const valEvent = await Events.findOne({ _id: idEvent });
+        const user = await Users.findOne({ _id: idUser });
+
+        if (!valEvent) {
+            logger.warn(`Event not found with ID: ${idEvent}`);
+            return res.status(400).json({
+                ok: false,
+                msg: "Event not found",
+            });
+        }
+
+        if (!user) {
+            logger.warn(`User not found with ID: ${idUser}`);
+            return res.status(400).json({
+                ok: false,
+                msg: "User not found",
+            });
+        }
+
+        if (valEvent.capacity <= valEvent.attendees.length) {
+            logger.info(`Event at capacity with ID: ${idEvent}`);
+            return res.status(400).json({
+                ok: false,
+                msg: "Event is at capacity, cannot add more attendees.",
+            });
+        }
+
+        const adminEmail = 'admin@example.com';
+        const adminSubject = `Solicitud de registro al evento: ${valEvent.name}`;
+        const adminText = `El usuario ${user.nombre} (${user.email}) ha solicitado unirse al evento "${valEvent.name}". ID de usuario: ${idUser}.`;
+        await sendEmail(adminEmail, adminSubject, adminText);
+        logger.info(`Admin notified of user request to join event with ID: ${idEvent}`);
+
+        return res.status(200).json({
+            ok: true,
+            msg: "User request sent to admin!",
+        });
+    } catch (error) {
+        logger.error(`Error processing request to join event with ID: ${idEvent}, Error: ${error}`);
+        return res.status(500).json({
+            ok: false,
+            msg: 'Server error. Contact support',
+        });
+    }
+};
+
+
+const addAttendeeByAdmin = async (req: Request, res: Response): Promise<Response> => {
     const idEvent = req.params.id;
     const idUser = req.body.id;
 
@@ -190,9 +242,9 @@ const addAttendeeToEvent = async (req: Request, res: Response): Promise<Response
         valEvent.attendees.push(idUser);
         await valEvent.save();
 
-        const adminEmail = 'admin@example.com'; 
-        const adminSubject = `Nuevo asistente añadido al evento: ${valEvent.name}`;
-        const adminText = `El usuario ${user.nombre} (${user.email}) se ha añadido al evento "${valEvent.name}". Capacidad restante: ${valEvent.capacity - valEvent.attendees.length}.`;
+        const adminEmail = 'admin@example.com';
+        const adminSubject = `Asistente añadido al evento: ${valEvent.name}`;
+        const adminText = `El usuario ${user.nombre} (${user.email}) ha sido añadido al evento "${valEvent.name}". Capacidad restante: ${valEvent.capacity - valEvent.attendees.length}.`;
         await sendEmail(adminEmail, adminSubject, adminText);
         logger.info(`Admin notified of new attendee for event with ID: ${idEvent}`);
 
@@ -213,12 +265,12 @@ const addAttendeeToEvent = async (req: Request, res: Response): Promise<Response
         });
     }
 };
-
 export {
     createEvent,
     deleteEventById,
     getAllEvents,
     getEventById,
     updateEventById,
-    addAttendeeToEvent,
+    requestToJoinEvent,
+    addAttendeeByAdmin
 };

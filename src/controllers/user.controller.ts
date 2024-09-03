@@ -3,6 +3,7 @@ import { generateToken } from '../middlewares/jwtGenerateToken';
 import { Request, Response } from "express";
 import Users from '../models/user.model';
 import logger from '../utils/logger';
+import UserRol from '../models/userRol.model';
 
 const createUser = async (req: Request, res: Response) => {
     const { email, pw, edad, nombre, nacionalidad, documentoDeIdentidad, tipoDeDocumento, numeroDeContacto } = req.body;
@@ -15,6 +16,14 @@ const createUser = async (req: Request, res: Response) => {
                 msg: `${email} ya está en uso.`,
             });
         }
+        const userRole = await UserRol.findOne({ rol: 'users' });
+        if (!userRole) {
+            logger.error(`Error: El rol 'users' no existe en la base de datos.`);
+            return res.status(500).json({
+                ok: false,
+                msg: 'Error en el servidor: Rol de usuario no encontrado.',
+            });
+        }
         const salt = genSaltSync();
         const dbUser = new Users({
             email,
@@ -25,6 +34,7 @@ const createUser = async (req: Request, res: Response) => {
             tipoDeDocumento,
             documentoDeIdentidad,
             numeroDeContacto,
+            rol: userRole._id,
         });
         await dbUser.save();
         logger.info(`Usuario creado exitosamente: ${email}`);
@@ -45,7 +55,8 @@ const createUser = async (req: Request, res: Response) => {
 const loginUser = async (req: Request, res: Response) => {
     const { email, pw } = req.body;
     try {
-        const dbUser = await Users.findOne({ email });
+        const dbUser = await Users.findOne({ email }).populate('rol');
+
         if (!dbUser) {
             logger.info(`Intento de inicio de sesión fallido: ${email} no existe.`);
             return res.status(400).json({
@@ -53,6 +64,7 @@ const loginUser = async (req: Request, res: Response) => {
                 msg: 'El usuario no existe.',
             });
         }
+
         const validatePw = compareSync(pw, dbUser.pw);
         if (!validatePw) {
             logger.info(`Intento de inicio de sesión fallido: contraseña incorrecta para ${email}.`);
@@ -61,7 +73,9 @@ const loginUser = async (req: Request, res: Response) => {
                 msg: 'El correo y la contraseña no coinciden.',
             });
         }
+
         const token = generateToken(dbUser._id);
+
         logger.info(`Inicio de sesión exitoso: ${email}`);
         return res.status(200).json({
             ok: true,
@@ -69,6 +83,7 @@ const loginUser = async (req: Request, res: Response) => {
             token,
             nombre: dbUser.nombre,
             email: dbUser.email,
+            rol: dbUser.rol,
         });
     } catch (error) {
         logger.error(`Error al iniciar sesión: ${error}`);
@@ -167,10 +182,50 @@ const getUserByEmail = async (req: Request, res: Response) => {
     }
 };
 
+const assignRoleToUser = async (req: Request, res: Response) => {
+    const { userId, roleId } = req.body;
+    try {
+        const role = await UserRol.findById(roleId);
+        if (!role) {
+            return res.status(404).json({
+                ok: false,
+                msg: 'El rol especificado no existe.',
+            });
+        }
+        const updatedUser = await Users.findByIdAndUpdate(
+            userId,
+            { rol: roleId },
+            { new: true }
+        ).populate('rol');
+        if (!updatedUser) {
+            return res.status(404).json({
+                ok: false,
+                msg: 'El usuario especificado no existe.',
+            });
+        }
+        return res.status(200).json({
+            ok: true,
+            msg: 'Rol asignado correctamente al usuario.',
+            user: {
+                id: updatedUser._id,
+                nombre: updatedUser.nombre,
+                email: updatedUser.email,
+                rol: updatedUser.rol
+            },
+        });
+    } catch (error) {
+        return res.status(500).json({
+            ok: false,
+            msg: 'Error al asignar el rol al usuario. Por favor, contacte a soporte.',
+        });
+    }
+};
+
 export {
     createUser,
     loginUser,
     updateUser,
     deleteUser,
     getUserByEmail,
+    assignRoleToUser
 };
