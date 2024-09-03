@@ -4,7 +4,7 @@ const {createUser, loginUser, updateUser, deleteUser, getUserByEmail} = require(
 const {users, login} = require('./../middlewares/validationBody')
 const validateFields = require('./../middlewares/validationResult')
 
-router.post('/registro', users, validateFields, createUser)
+router.post('/registro', createUser)
 router.post('/login', login, validateFields, loginUser)
 router.put('/update-user', validateFields, updateUser)
 router.delete('/delete-user/', deleteUser)

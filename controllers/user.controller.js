@@ -3,25 +3,25 @@ const bcrypt = require('bcrypt')
 const { generateToken } = require('../middlewares/jwtGenerateToken')
 
 const createUser = async (req, res) => {
-    const { email, pw, edad, nombre, nacionalidad, documentoDeIdentidad, tipoDeDocumento, numeroDeContacto } = req.body
+    const { data } = req.body
     try {
-        const user = await User.findOne({ email: email })
+        const user = await User.findOne({ email: data.email })
         if (user) return res.status(400).json({
             ok: false,
-            msg: `${email} ya esta en uso.`
+            msg: `${data.email} ya esta en uso.`
         })
         const salt = bcrypt.genSaltSync()
         const dbUser = new User({
-            email: email,
-            pw: pw,
-            edad: edad,
-            nombre: nombre,
-            nacionalidad: nacionalidad,
-            tipoDeDocumento: tipoDeDocumento,
-            documentoDeIdentidad: documentoDeIdentidad,
-            numeroDeContacto: numeroDeContacto
+            email: data.email,
+            pw: data.pw,
+            edad: data.edad,
+            nombre: data.nombre,
+            nacionalidad: data.nacionalidad,
+            tipoDeDocumento: data.tipoDeDocumento,
+            documentoDeIdentidad: data.documentoDeIdentidad,
+            numeroDeContacto: data.numeroDeContacto
         })
-        dbUser.pw = bcrypt.hashSync(pw, salt)
+        dbUser.pw = bcrypt.hashSync(data.pw, salt)
         await dbUser.save()
         return res.status(201).json({
             ok: true,
@@ -29,7 +29,7 @@ const createUser = async (req, res) => {
         })
     } catch (error) {
         console.log(error)
-        return req.status(500).json({
+        return res.status(500).json({
             ok: false,
             msg: 'Por favor contacta a soporte'
         })
@@ -68,17 +68,19 @@ const loginUser = async (req, res) => {
 }
 
 const updateUser = async (req, res) => {
-    const { email, pw, edad, nombre } = req.body
+    const {data} = req.body
     try {
         const updatedData = {};
-        if (email) updatedData.email = email;
-        if (pw) updatedData.pw = pw;
-        if (edad) updatedData.edad = edad
-        if (nombre) updatedData.nombre = nombre
-        const user = await User.findOneAndUpdate({ email: email }, updatedData)
+        if (data.email) updatedData.email = data.email;
+        if (data.pw) updatedData.pw = data.pw;
+        if (data.edad) updatedData.edad = data.edad
+        if (data.nombre) updatedData.nombre = data.nombre
+        if (data.numeroDeContacto) updatedData.numeroDeContacto = data.numeroDeContacto
+
+        const user = await User.findOneAndUpdate({ email: data.email }, updatedData)
         if (!user) return res.status(400).json({
             ok: false,
-            msg: `Usuario con email ${email} no fue encontrado`
+            msg: `Usuario con email ${data.email} no fue encontrado`
         })
         return res.status(200).json({
             ok: true,
