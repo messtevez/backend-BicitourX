@@ -44,7 +44,7 @@ const createEvent = async (req: Request, res: Response): Promise<Response> => {
 
 const getAllEvents = async (_req: Request, res: Response): Promise<Response> => {
     try {
-        const events = await Events.find().select('name');
+        const events = await Events.find();
         logger.info('Fetched all events');
         return res.status(200).json({
             ok: true,

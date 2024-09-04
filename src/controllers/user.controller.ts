@@ -56,7 +56,7 @@ const loginUser = async (req: Request, res: Response) => {
     const { email, pw } = req.body;
     try {
         const dbUser = await Users.findOne({ email }).populate('rol');
-
+        console.log(dbUser)
         if (!dbUser) {
             logger.info(`Intento de inicio de sesión fallido: ${email} no existe.`);
             return res.status(400).json({
@@ -81,6 +81,7 @@ const loginUser = async (req: Request, res: Response) => {
             ok: true,
             msg: 'Sesión iniciada',
             token,
+            id: dbUser._id,
             nombre: dbUser.nombre,
             email: dbUser.email,
             rol: dbUser.rol,
