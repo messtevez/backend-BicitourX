@@ -1,0 +1,41 @@
+{"level":"info","message":"Servidor conectado al puerto 4001"}
+{"level":"error","message":"Error conectando a la base de datos Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/","reason":{"commonWireVersion":0,"compatible":true,"heartbeatFrequencyMS":10000,"localThresholdMS":15,"logicalSessionTimeoutMinutes":null,"maxElectionId":null,"maxSetVersion":null,"servers":{"ac-bnu3mhd-shard-00-00.32b7c7n.mongodb.net:27017":{"$clusterTime":null,"address":"ac-bnu3mhd-shard-00-00.32b7c7n.mongodb.net:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":38892005,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-bnu3mhd-shard-00-01.32b7c7n.mongodb.net:27017":{"$clusterTime":null,"address":"ac-bnu3mhd-shard-00-01.32b7c7n.mongodb.net:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":38891918,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"},"ac-bnu3mhd-shard-00-02.32b7c7n.mongodb.net:27017":{"$clusterTime":null,"address":"ac-bnu3mhd-shard-00-02.32b7c7n.mongodb.net:27017","arbiters":[],"electionId":null,"error":{},"hosts":[],"lastUpdateTime":38891893,"lastWriteDate":0,"logicalSessionTimeoutMinutes":null,"maxWireVersion":0,"me":null,"minRoundTripTime":0,"minWireVersion":0,"passives":[],"primary":null,"roundTripTime":-1,"setName":null,"setVersion":null,"tags":{},"topologyVersion":null,"type":"Unknown"}},"setName":"atlas-sr7px1-shard-0","stale":false,"type":"ReplicaSetNoPrimary"},"stack":"MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/\n    at _handleConnectionErrors (/Users/stevenpatino/Documents/BIT/backend-bicitourx/node_modules/mongoose/lib/connection.js:897:11)\n    at NativeConnection.openUri (/Users/stevenpatino/Documents/BIT/backend-bicitourx/node_modules/mongoose/lib/connection.js:848:11)\n    at async connectDB (/Users/stevenpatino/Documents/BIT/backend-bicitourx/src/db/config.ts:32:9)"}
+{"level":"info","message":"Servidor conectado al puerto 4001"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Usuario creado exitosamente: stevenwork75@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Intento de consulta fallido: usuario con email undefined no fue encontrado."}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"warn","message":"Errores de validación detectados","pw":{"location":"body","msg":"Escribe una contraseña segura con al menos 8 caracteres, una letra mayúscula, minúscula, números y caracteres","path":"pw","type":"field","value":"!Test1"}}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
+{"level":"info","message":"Fetched all events"}
