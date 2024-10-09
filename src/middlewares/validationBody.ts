@@ -20,7 +20,7 @@ const login = [
 ]
 
 const events = [
-    body('name', 'El nombre del evento no puede estar vacio').notEmpty(),
+    body('title', 'El nombre del evento no puede estar vacio').notEmpty(),
     body('date', 'La fecha del evento no puede estar vacia').notEmpty(),
     body('hour', 'La hora del evento no puede estar vacia').notEmpty(),
     body('location', 'El lugar del evento no puede estar vacio').notEmpty(),

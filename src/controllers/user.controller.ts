@@ -96,7 +96,7 @@ const loginUser = async (req: Request, res: Response) => {
 };
 
 const updateUser = async (req: Request, res: Response) => {
-    const { email, pw, edad, nombre } = req.body;
+    const {email, pw, edad, nombre } = req.body;
     try {
         const updatedData: Partial<typeof req.body> = {};
         if (email) updatedData.email = email;
@@ -184,7 +184,7 @@ const getUserByEmail = async (req: Request, res: Response) => {
 };
 
 const assignRoleToUser = async (req: Request, res: Response) => {
-    const { userId, roleId } = req.body;
+    const { userEmail, roleId } = req.body;
     try {
         const role = await UserRol.findById(roleId);
         if (!role) {
@@ -193,8 +193,8 @@ const assignRoleToUser = async (req: Request, res: Response) => {
                 msg: 'El rol especificado no existe.',
             });
         }
-        const updatedUser = await Users.findByIdAndUpdate(
-            userId,
+        const updatedUser = await Users.findOneAndUpdate(
+            {email: userEmail},
             { rol: roleId },
             { new: true }
         ).populate('rol');

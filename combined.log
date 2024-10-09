@@ -39,3 +39,507 @@
 {"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
 {"level":"info","message":"Inicio de sesión exitoso: stevenwork75@gmail.com"}
 {"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"Errores de validación detectados","numeroDeContacto":{"location":"body","msg":"No dejes este campo vacío","path":"numeroDeContacto","type":"field","value":""}}
+{"level":"warn","message":"Errores de validación detectados","numeroDeContacto":{"location":"body","msg":"No dejes este campo vacío","path":"numeroDeContacto","type":"field","value":""}}
+{"level":"info","message":"Usuario creado exitosamente: test@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Usuario consultado exitosamente: prueba@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"error","message":"Error creating event: ValidationError: cost: Cast to Number failed for value \"15k\" (type string) at path \"cost\", title: Path `title` is required."}
+{"level":"error","message":"Error creating event: ValidationError: capacity: Cast to Number failed for value \"200F\" (type string) at path \"capacity\", title: Path `title` is required."}
+{"level":"error","message":"Error creating event: ValidationError: title: Path `title` is required."}
+{"level":"error","message":"Error creating event: ValidationError: title: Path `title` is required."}
+{"level":"warn","message":"Event image is required"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Event created successfully with ID: 67048337ecd3336309e6ed1f"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Event created successfully with ID: 67048de779ccc04e31a0f393"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 66da37e6efcd25b630087b12"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Intento de registro fallido: user@gmail.com ya está en uso."}
+{"level":"info","message":"Usuario creado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para prueba@gmail.com."}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 67048337ecd3336309e6ed1f"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 67048de779ccc04e31a0f393"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 6705840d88dfb290ead029fc"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 6705840d88dfb290ead029fc"}
+{"level":"warn","message":"Event not found for deletion with ID: 6705840d88dfb290ead029fc"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 6705847588dfb290ead02a02"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 6705849988dfb290ead02a05"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 6705847588dfb290ead02a02"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 6705849988dfb290ead02a05"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 670584fb88dfb290ead02a0d"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 670584fb88dfb290ead02a0d"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 6705856188dfb290ead02a12"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 6705856188dfb290ead02a12"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: test@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"Event not found with ID: 67041ddd143e8917cba04129"}
+{"level":"warn","message":"Event not found with ID: 67048337ecd3336309e6ed1f"}
+{"level":"warn","message":"Event not found with ID: 67048337ecd3336309e6ed1f"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a test@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para prueba@gmail.com."}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"error","message":"Error adding attendee to event with ID: 6705859e88dfb290ead02a17, Error: CastError: Cast to ObjectId failed for value \"test@gmail.com\" (type string) at path \"attendees\" because of \"BSONError\""}
+{"level":"error","message":"Error adding attendee to event with ID: 6705859e88dfb290ead02a17, Error: CastError: Cast to ObjectId failed for value \"test@gmail.com\" (type string) at path \"attendees\" because of \"BSONError\""}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a test@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"User not found with ID: undefined"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user2@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"User not found with ID: undefined"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"User not found with ID: undefined"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user2@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a test@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a test@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user2@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a test@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a prueba@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"User not found with ID: test@test.com"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705859e88dfb290ead02a17"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user2@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705859e88dfb290ead02a17"}
+{"level":"error","message":"Error fetching all events: Error: read ECONNRESET"}
+{"level":"error","message":"Error fetching all events: Error: read ECONNRESET"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"User not found with ID: "}
+{"level":"warn","message":"User not found with ID: "}
+{"level":"info","message":"Fetched all events"}
+{"level":"warn","message":"User not found with ID: "}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"warn","message":"User not found with ID: "}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: test@gmail.com"}
+{"body":"{\r\n    \"data\": {\r\n    \"email\": \"test@gmail.com\",\r\n    \"pw\": \"*Clave1234\",\r\n    \"nombre\": \"Maria Estevez\",\r\n    \"nacionalidad\": \"Colombia\",\r\n    \"documentoDeIdentidad\": \"1234544667\",\r\n    \"tipoDeDocumento\": \"CC\",\r\n    \"edad\": \"26\"¨,\r\n    \"numeroDeContacto\": \"92834792\"    \r\n}\r\n}","expose":true,"level":"error","message":"Error en el servidor: Expected ',' or '}' after property value in JSON at position 229","stack":"SyntaxError: Expected ',' or '}' after property value in JSON at position 229\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at IncomingMessage.emit (node:domain:488:12)\n    at endReadableNT (node:internal/streams/readable:1696:12)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Intento de actualización fallido: usuario con email undefined no fue encontrado."}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Intento de actualización fallido: usuario con email undefined no fue encontrado."}
+{"body":"{\r\n    \"data\": {\r\n    \"email\": test@gmail.com,\r\n    \"pw\": \"*Clave1234\",\r\n    \"nombre\": \"Maria Estevez\",\r\n    \"nacionalidad\": \"Colombia\",\r\n    \"documentoDeIdentidad\": \"1234544667\",\r\n    \"tipoDeDocumento\": \"CC\",\r\n    \"edad\": \"26\",\r\n    \"numeroDeContacto\": \"92834792\"    \r\n}\r\n}","expose":true,"level":"error","message":"Error en el servidor: Unexpected token 'e', ...\"\"email\": test@gmail.\"... is not valid JSON","stack":"SyntaxError: Unexpected token 'e', ...\"\"email\": test@gmail.\"... is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at IncomingMessage.emit (node:domain:488:12)\n    at endReadableNT (node:internal/streams/readable:1696:12)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Intento de actualización fallido: usuario con email undefined no fue encontrado."}
+{"body":"{\r\n    \"email\": \"test@gmail.com\",\r\n    \"pw\": \"*Clave1234\",\r\n    \"nombre\": \"Maria Estevez\",\r\n    \"nacionalidad\": \"Colombia\",\r\n    \"documentoDeIdentidad\": \"1234544667\",\r\n    \"tipoDeDocumento\": \"CC\",\r\n    \"edad\": \"26\",\r\n    \"numeroDeContacto\": \"92834792\"    \r\n}}","expose":true,"level":"error","message":"Error en el servidor: Unexpected non-whitespace character after JSON at position 258","stack":"SyntaxError: Unexpected non-whitespace character after JSON at position 258\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at IncomingMessage.emit (node:domain:488:12)\n    at endReadableNT (node:internal/streams/readable:1696:12)","status":400,"statusCode":400,"type":"entity.parse.failed"}
+{"level":"info","message":"Usuario actualizado exitosamente: test@gmail.com"}
+{"level":"info","message":"Servidor conectado al puerto 3000"}
+{"level":"info","message":"DB conectada"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"warn","message":"Errores de validación detectados","pw":{"location":"body","msg":"Escribe una contraseña segura con al menos 8 caracteres, una letra mayúscula, minúscula, números y caracteres","path":"pw","type":"field","value":"user2@gmail.com"}}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Usuario creado exitosamente: admin@admin.com"}
+{"level":"info","message":"Inicio de sesión exitoso: admin@admin.com"}
+{"level":"info","message":"Usuario consultado exitosamente: admin@admin.com"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Intento de inicio de sesión fallido: contraseña incorrecta para user2@gmail.com."}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario consultado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Usuario actualizado exitosamente: user2@gmail.com"}
+{"level":"info","message":"Inicio de sesión exitoso: prueba@gmail.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Inicio de sesión exitoso: admin@admin.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event created successfully with ID: 6705dc2ae80c06e958d62038"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Event deleted successfully with ID: 6705859e88dfb290ead02a17"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a admin@example.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"Admin notified of new attendee for event with ID: 6705dc2ae80c06e958d62038"}
+{"code":"EAUTH","command":"API","level":"error","message":"Error al enviar el email a user@gmail.com: Missing credentials for \"PLAIN\"","stack":"Error: Missing credentials for \"PLAIN\"\n    at SMTPConnection._formatError (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:807:19)\n    at SMTPConnection.login (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:452:38)\n    at C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-transport\\index.js:272:32\n    at SMTPConnection.<anonymous> (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:215:17)\n    at Object.onceWrapper (node:events:633:28)\n    at SMTPConnection.emit (node:events:519:28)\n    at SMTPConnection.emit (node:domain:488:12)\n    at SMTPConnection._actionEHLO (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:1369:14)\n    at SMTPConnection._processResponse (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:991:20)\n    at SMTPConnection._onData (C:\\Users\\macze\\OneDrive\\Documentos\\WEB DEVELOPMENT BOOTCAMP\\bicitoru TS\\backend-bicitourx\\node_modules\\nodemailer\\lib\\smtp-connection\\index.js:772:14)"}
+{"level":"info","message":"User notified of successful registration for event with ID: 6705dc2ae80c06e958d62038"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Usuario consultado exitosamente: admin@admin.com"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}
+{"level":"info","message":"Fetched all events"}

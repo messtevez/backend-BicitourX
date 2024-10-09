@@ -7,7 +7,8 @@ import {
     getEventById, 
     updateEventById, 
     requestToJoinEvent, 
-    addAttendeeByAdmin 
+    addAttendeeByAdmin, 
+    getEventsByUserId
 } from '../controllers/event.controller';
 
 const router = express.Router();
@@ -19,4 +20,5 @@ router.get('/get-event/:id', getEventById);
 router.put('/update-event/:id', updateEventById);
 router.post('/events/:id/request', requestToJoinEvent);
 router.put('/events/:id/add', addAttendeeByAdmin);
+router.get('/events/user/:userId', getEventsByUserId)
 export default router;

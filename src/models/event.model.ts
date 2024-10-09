@@ -1,6 +1,6 @@
 import { Schema, model } from 'mongoose';
 const eventSchema = new Schema({
-    name: {
+    title: {
         type: String,
         required: true,
     },
@@ -40,6 +40,10 @@ const eventSchema = new Schema({
         type: String,
         required: true,
     }],
+    descripcion:[{
+        type: String,
+        required: true,
+    }]
 });
-const Events = model('Events', eventSchema);
-export default Events;
+const Event = model('Events', eventSchema);
+export default Event;
